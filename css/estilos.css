@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url(banner.css);
+@import url(paginas.css);
+
+section{
+	width: 50%;
+	margin-bottom: 25px;
+}
+#Hola {
+	text-align: center ;
+}
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
