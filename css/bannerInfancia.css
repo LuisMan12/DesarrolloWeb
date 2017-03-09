@@ -1,0 +1,28 @@
+#bannerInf{
+
+	margin-top: 70px;
+	position: relative;
+
+}
+#bannerInf img{
+
+	width: 100%;
+	height: 13%;
+
+}
+.contenedor {
+position: absolute;
+top: 30;
+left: 50;
+transform: translateX(-100%) translateY(-50%)
+color: #fff;
+
+}
+#bannerInf h2{
+	font-size: 50px;
+	color: #fff;
+}
+#bannerInf p{
+	font-size: 20;
+	color:#fff;
+}
