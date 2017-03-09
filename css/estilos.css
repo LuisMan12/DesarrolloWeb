@@ -1,15 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url(banner.css);
 @import url(paginas.css);
+@import url(bannerInfancia.css);
+
 
 section{
-	width: 50%;
+	width: 100%;
 	margin-bottom: 25px;
 }
 #Hola {
-	text-align: center ;
+	
+	text-align: center;
 }
 
 body{
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Open Sans',serif;
 }
