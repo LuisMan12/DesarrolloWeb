@@ -24,3 +24,20 @@ color: #fff;
 	
 
 }
+}
+@media (min-width: 480px) {
+	#bannerGust h2 {
+		font-size: 25px; 
+	}
+}
+@media (min-width: 768px){
+	#bannerGust {
+		height: 450px;
+		overflow: hidden;
+	}
+#bannerGust img {
+	height: auto;
+	margin-top: -250px;
+}
+
+}
