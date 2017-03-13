@@ -8,9 +8,14 @@
 	text-align: center;
 }
 
-body{
-	font-family: 'Open Sans',serif;
+body , h2, h1 , h4,  title{
+	font-family: monospace, courier, 'Open Sans',serif ;
 }
+
+body{
+	font-family: 2em;
+}
+
 footer .contenedor{
 	display: flex;
 	flex-wrap: wrap;
@@ -29,4 +34,11 @@ footer .contenedor{
 
 	color:#333;
 	text-decoration: none;
+}
+
+@media (min-width:1024px){
+
+	.contenedor{
+		width: 1000px;
+	}
 }
