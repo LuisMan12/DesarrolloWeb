@@ -1,0 +1,24 @@
+#infokid {
+
+	background: #333;
+	color: #fff;
+	text-align-left;
+	padding: 30px;
+}
+#infokid .contenedor2{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+
+}
+.info-kid{
+	margin: 30px;
+
+}
+.info-kid img{
+    
+	width: 190px;
+	height: 190px;
+	border-radius: 50%;
+	border: 7px solid #fff;
+}
