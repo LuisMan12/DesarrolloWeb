@@ -1,12 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
-@import url(banner.css);
+
 @import url(paginas.css);
-@import url(bannerInfancia.css);
 
-
-section{
-	width: 100%;
-	margin-bottom: 25px;
 }
 #Hola {
 	
@@ -15,4 +10,23 @@ section{
 
 body{
 	font-family: 'Open Sans',serif;
+}
+footer .contenedor{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.copy {
+
+	font-size: 15px;
+}
+.sociales{
+	width: 100%;
+	text-align: center;
+	font-size: 28px;
+}
+.sociales a{
+
+	color:#333;
+	text-decoration: none;
 }
